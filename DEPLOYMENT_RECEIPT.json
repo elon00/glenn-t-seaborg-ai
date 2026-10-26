@@ -1,0 +1,14 @@
+{
+  "project": "glenn-t-seaborg-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "H3awPwCGsbSqKbdsZBGq7V7A5836ZKrLM7uZzaUyDETJ",
+  "vault_account": "6HWN8eTWSHFnj2XYmyMWpdsV4yPZoMhtNGa1YZRfwRdj",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3eVi8vWmPxEMjwG4Cq71EcFZgbyhVoQFDym7hEd9gQ1b38KxxaCdkXFHc7AjPxTJbp4SqCTFm9xKZ1AnEWPjPpJA",
+  "account_tx": "5JXhxTZwqjQ6NRhqYTfvrAKx6C8JpP4FfZhTcr8qtJjd734zvLD36kSFLvgEkovwRwXpbDdMA38Khrqn6n658Vyt",
+  "mint_tx": "5bTVukM8LyBVyC24vMZZ7kuHoqakLHsNhvqNVxkBi1LhxUwjGky2NwKYSUnY6mfAALnKyVvFtnJLtj1GR7jYBtf2",
+  "solana_explorer_mint": "https://explorer.solana.com/address/H3awPwCGsbSqKbdsZBGq7V7A5836ZKrLM7uZzaUyDETJ?cluster=devnet",
+  "timestamp": "2026-10-26 16:35:18 UTC"
+}
